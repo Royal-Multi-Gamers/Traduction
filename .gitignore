@@ -1,0 +1,20 @@
+node_modules/
+
+/.vs
+/cache
+/logs_backup
+/alpine
+/db
+/txData
+autoclean.sh
+run.sh
+run.sh.bak
+server.cfg
+# server.cfg.bak
+*.log
+fx.tar.xz 
+#.github
+.vscode
+**/.vscode/
+#**/.github/
+**/.vs/

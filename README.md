@@ -1,1 +1,1 @@
-# Syneria RP
+# Syneria RP Trad Repo
